@@ -1,0 +1,24 @@
+
+{
+    "testimonials": [
+      {
+        "id": 1,
+        "name": "Jan Jansen",
+        "feedback": "Uitstekende service en geweldige resultaten!",
+        "photo": "/images/testimonial1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Marie de Vries",
+        "feedback": "Zeer professioneel en betrouwbaar.",
+        "photo": "/images/testimonial2.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Petra Bakker",
+        "feedback": "Mijn project werd perfect gerealiseerd.",
+        "photo": "/images/testimonial3.jpg"
+      }
+    ]
+  }
+  
